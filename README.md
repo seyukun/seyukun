@@ -10,7 +10,7 @@
 
 ## 言語
 ### JavaScript
-- 経験3年
+- 3年
 - ライブラリ等の知識
 
 ### TypeScript
