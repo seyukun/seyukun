@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ES-Yukun&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ES-Yukun" />
-</a>
-
 # 技術スタック
 家のラックサーバー3代でサービスを作成中
 基本的に必要になったら勉強するのスタンス
@@ -53,3 +46,10 @@
 
 ### LAMP
 - 構築に必要なものは全部できる
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ES-Yukun&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ES-Yukun" />
+</a>
