@@ -17,25 +17,16 @@
 | Rust | 1.5 | can create VPN. |
 | C | 1 | Understanding the basic usage. can create libc in c. |
 
+| Tools | Years of experience | Remarks |
+| :---: | :---: | :---: |
+| Kubernetes | 2 | Understanding the basic usage. can constract. can use RBAC, kubevirt, argocd, and etc... |
+| iptables | 2 | Understanding the basic usage. can create nat router. |
 
-## CI/CD
-- argocd
-
-## インフラ
-### Kubernetes
-- 2年間
-- 自分で構築できる
-- RBACの理解
-- kubevirt
-
-### ネットワーク
-- iptablesでルーターを作成できる
-
-### LAMP
-- 構築に必要なものは全部できる  
-
-# Organization
-- https://github.com/docheio  
+| Organization | From | Content | URL |
+| :---: | :---: | :---: | :---: |
+| SAKURA internet Inc. | 2023/8/1 ~ now | cloud provider | https://www.sakura.ad.jp |
+| docheio Org. | 2022/1/1 ~ now | cloud provider | https://doche.io |
+| KuronekoServer Org. | 2022/5/1 ~ now | SaaS | https://kuroneko6423.com |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ES-Yukun&count_private=true&show_icons=true&theme=radical" />
