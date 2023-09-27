@@ -7,40 +7,16 @@
 現状は広く浅く  
 新しい技術が好きです  
 
+| Language | Years of experience | Remarks |
+| :---: | :---: | :---: |
+| JavaScript | 3 | Understanding the basic usage |
+| Typescript | 3 | Understanding the basic usage. can create web server, api, discord bot and etc... . can use React, Svelte. | 
+| Python | 2 | Understanding the basic usage. I dont link this Lang. |
+| PHP | 2 | Understanding the basic usage. can create blog, use databases. Weak understanding of `wordpress` | 
+| Go | 1.5 | Understanding the basic usage. can create api (personal level). Weak understanding of `goroutine` and `Context` |
+| Rust | 1.5 | can create VPN. |
+| C | 1 | Understanding the basic usage. can create libc in c. |
 
-## 言語
-### JavaScript
-- 3年間
-- ライブラリ等の知識
-
-### TypeScript
-- 3年間
-- 言語仕様は理解している
-
-### Python
-- 1年半
-- 基本的な言語仕様の理解
-- 個人的な持論で嫌い
-
-### Go
-- 1年間
-- 基本的な言語仕様の理解
-- 個人開発レベルのAPI作成
-- `goroutine`や`Context`の理解が弱い
-
-### Rust
-- 1年未満
-- VPNを自作できる程度
-
-### C
-- 初歩的な言語仕様の理解
-- libcの関数を実装できる程度
-
-### PHP
-- 2年間
-- 基本的な言語仕様の理解
-- 個人レベルでブログ作成等
-- wordpressは苦手
 
 ## CI/CD
 - argocd
