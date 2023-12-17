@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-# 技術スタック
-家のラックサーバー3台でサービスを作成中  
-現状は広く浅く、必要になったら勉強するのスタンスです  
-将来的には広く深くを目指します  
-新しい技術が好きです  
-
 | Language | Years of experience | Remarks |
 | :---: | :---: | :---: |
 | JavaScript | 3 | Understanding the basic usage |
