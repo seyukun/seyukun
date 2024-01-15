@@ -22,12 +22,13 @@
 | docheio Org. | 2022/1/1 ~ now | cloud provider | https://doche.io |
 | KuronekoServer Org. | 2022/5/1 ~ now | SaaS | https://kuroneko6423.com |
 
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seyukun&layout=compact&theme=dark)](https://wakatime.com/@seyukun)
+
 <p align="left">
   <a href="https://github.com/seyukun">
     <img src="https://komarev.com/ghpvc/?username=seyukun" alt="seyukun" />
   </a>
 </p>
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seyukun&layout=compact&theme=dark)](https://wakatime.com/@seyukun)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=seyukun&count_private=true&show_icons=true&theme=radical" />
 </a>
