@@ -3,9 +3,9 @@
 [![views](https://komarev.com/ghpvc/?username=seyukun)](https://github.com/esyukun/) 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=seyukun&count_private=true&show_icons=true&theme=radical)](https://github.com/esyukun/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esyukun&layout=compact)](https://github.com/esyukun/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyukun&layout=compact)](https://github.com/esyukun/)
 [![42 stats](https://badge42.coday.fr/api/v2/clreml541213701p4wo594ilq/stats?cursusId=21&coalitionId=310)](https://github.com/esyukun/)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=esyukun)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seyukun)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
