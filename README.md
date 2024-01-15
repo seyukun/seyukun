@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![views](https://komarev.com/ghpvc/?username=seyukun)](https://github.com/Coday-meric/badge42) 
+[![views](https://komarev.com/ghpvc/?username=seyukun)](https://github.com/esyukun/) 
 
-[![yushsato's 42 stats](https://badge42.coday.fr/api/v2/clreml541213701p4wo594ilq/stats?cursusId=21&coalitionId=310)](https://github.com/Coday-meric/badge42)
+[![github stats](https://github-readme-stats.vercel.app/api?username=seyukun&count_private=true&show_icons=true&theme=radical)](https://github.com/esyukun/)
+[![yushsato's 42 stats](https://badge42.coday.fr/api/v2/clreml541213701p4wo594ilq/stats?cursusId=21&coalitionId=310)](https://github.com/esyukun/)
 
 | Language | Years of experience | Remarks |
 | :---: | :---: | :---: |
