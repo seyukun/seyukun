@@ -27,6 +27,7 @@
     <img src="https://komarev.com/ghpvc/?username=seyukun" alt="seyukun" />
   </a>
 </p>
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seyukun&layout=compact&theme=dark)](https://wakatime.com/@seyukun)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=seyukun&count_private=true&show_icons=true&theme=radical" />
 </a>
