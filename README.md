@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<p align="left">
-  <a href="https://github.com/seyukun">
-    <img src="https://komarev.com/ghpvc/?username=seyukun" alt="seyukun" />
-  </a>
-</p>
-
 [![views](https://komarev.com/ghpvc/?username=seyukun)](https://github.com/Coday-meric/badge42)
 
 | Language | Years of experience | Remarks |
