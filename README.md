@@ -25,6 +25,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+[![yushsato's 42 stats](https://badge42.coday.fr/api/v2/clreml541213701p4wo594ilq/stats?cursusId=28&coalitionId=61)](https://github.com/Coday-meric/badge42)
+
 <p align="left">
   <a href="https://github.com/seyukun">
     <img src="https://komarev.com/ghpvc/?username=seyukun" alt="seyukun" />
