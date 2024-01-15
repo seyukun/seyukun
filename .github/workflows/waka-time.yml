@@ -2,6 +2,7 @@ name: Work Stats Readme
 
 on:
   workflow_dispatch:
+  push:
   schedule:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
