@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![views](https://komarev.com/ghpvc/?username=seyukun)](https://github.com/Coday-meric/badge42)
+[![yushsato's 42 stats](https://badge42.coday.fr/api/v2/clreml541213701p4wo594ilq/stats?cursusId=21&coalitionId=310)](https://github.com/Coday-meric/badge42)
 
 | Language | Years of experience | Remarks |
 | :---: | :---: | :---: |
@@ -26,8 +27,6 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-[![yushsato's 42 stats](https://badge42.coday.fr/api/v2/clreml541213701p4wo594ilq/stats?cursusId=28&coalitionId=61)](https://github.com/Coday-meric/badge42)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=seyukun&count_private=true&show_icons=true&theme=radical" />
