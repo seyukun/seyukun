@@ -5,6 +5,8 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=seyukun&count_private=true&show_icons=true&theme=radical)](https://github.com/esyukun/)
 [![yushsato's 42 stats](https://badge42.coday.fr/api/v2/clreml541213701p4wo594ilq/stats?cursusId=21&coalitionId=310)](https://github.com/esyukun/)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=esyukun)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 | Language | Years of experience | Remarks |
 | :---: | :---: | :---: |
@@ -27,10 +29,3 @@
 | Kalytero Inc. | 2023/11/14 ~ now | cloud provider | https://kalyte.ro |
 | docheio Org. | 2022/1/1 ~ now | cloud provider | https://doche.io |
 | KuronekoServer Org. | 2022/5/1 ~ now | SaaS | https://kuroneko6423.com |
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyukun" />
-</a>
