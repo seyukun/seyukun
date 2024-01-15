@@ -22,6 +22,11 @@
 | docheio Org. | 2022/1/1 ~ now | cloud provider | https://doche.io |
 | KuronekoServer Org. | 2022/5/1 ~ now | SaaS | https://kuroneko6423.com |
 
+<p align="left">
+  <a href="https://github.com/seyukun">
+    <img src="https://komarev.com/ghpvc/?username=seyukun" alt="seyukun" />
+  </a>
+</p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=seyukun&count_private=true&show_icons=true&theme=radical" />
 </a>
