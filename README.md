@@ -22,7 +22,7 @@
 | Kubernetes | 2 | Understanding the basic usage. can constract. can use RBAC, kubevirt, argocd, and etc... |
 | iptables | 2 | Understanding the basic usage. can create nat router. |
 
-| Organization | From | Content | URL |
+| Organization | Since | Content | URL |
 | :---: | :---: | :---: | :---: |
 | SAKURA internet Inc. | 2023/8/1 ~ now | cloud provider | https://www.sakura.ad.jp |
 | Kalytero Inc. | 2023/11/14 ~ now | cloud provider | https://kalyte.ro |
