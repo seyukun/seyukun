@@ -9,8 +9,8 @@
 
 | Language | Years of experience | Remarks |
 | :---: | :---: | :---: |
-| JavaScript | 3 | Understanding the basic usage |
-| Typescript | 3 | Understanding the basic usage. can create web server, api, discord bot and etc... . can use React, Svelte. | 
+| JavaScript | 4 | Understanding the basic usage |
+| Typescript | 4 | Understanding the basic usage. can create web server, api, discord bot and etc... . can use React, Svelte. | 
 | Python | 2 | Understanding the basic usage. I dont link this Lang. |
 | PHP | 2 | Understanding the basic usage. can create blog, use databases. Weak understanding of `wordpress` | 
 | Go | 1.5 | Understanding the basic usage. can create api (personal level). Weak understanding of `goroutine` and `Context` |
@@ -20,7 +20,7 @@
 | Tools | Years of experience | Remarks |
 | :---: | :---: | :---: |
 | Kubernetes | 3 | Understanding the basic usage. can constract. can use RBAC, kubevirt, argocd, and etc... |
-| iptables | 2 | Understanding the basic usage. can create nat router. |
+| iptables | 3 | Understanding the basic usage. can create nat router. |
 
 | Organization | Since | Content | URL |
 | :---: | :---: | :---: | :---: |
