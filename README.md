@@ -2,10 +2,11 @@
 
 [![views](https://komarev.com/ghpvc/?username=seyukun)](https://github.com/esyukun/) 
 
-| GitHub Status | Ecole 42 Status | Most Used Lang | WakaTime Status |
-| :---: | :---: | :---: | :---: |
-| [![github stats](https://github-readme-stats.vercel.app/api?username=seyukun&count_private=true&show_icons=true&theme=radical)](https://github.com/esyukun/) | [![42 stats](https://badge42.coday.fr/api/v2/clreml541213701p4wo594ilq/stats?cursusId=21&coalitionId=310)](https://github.com/esyukun/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyukun&layout=compact)](https://github.com/esyukun/) | [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seyukun)](https://github.com/anuraghazra/github-readme-stats) |
-
+| GitHub Status | Ecole 42 Status |
+| :---: | :---: |
+| [![github stats](https://github-readme-stats.vercel.app/api?username=seyukun&count_private=true&show_icons=true&theme=radical)](https://github.com/esyukun/) | [![42 stats](https://badge42.coday.fr/api/v2/clreml541213701p4wo594ilq/stats?cursusId=21&coalitionId=310)](https://github.com/esyukun/) |
+| **Most Used Lang** | **WakaTime Status** |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyukun&layout=compact)](https://github.com/esyukun/) | [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seyukun)](https://github.com/anuraghazra/github-readme-stats) |
 ### Skills
 
 ![](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat) ![](https://img.shields.io/badge/-Kubernetes-EEE.svg?logo=kubernetes&style=flat) ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat) ![](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat) 
