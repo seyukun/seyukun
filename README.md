@@ -12,7 +12,7 @@
 
 | Organization | Since | Content | URL |
 | :---: | :---: | :---: | :---: |
-| SAKURA internet Inc. | 2023/8/1 ~ now | cloud provider | https://www.sakura.ad.jp |
-| Kalytero Inc. | 2023/11/14 ~ now | cloud provider | https://kalyte.ro |
-| docheio Org. | 2022/1/1 ~ now | cloud provider | https://doche.io |
+| SAKURA internet Inc. | 2023/8/1 ~ now | IaaS | https://www.sakura.ad.jp |
+| Kalytero Inc. | 2023/11/14 ~ now | Iaas | https://kalyte.ro |
+| docheio Org. | 2022/1/1 ~ now | IaaS | https://doche.io |
 | KuronekoServer Org. | 2022/5/1 ~ now | SaaS | https://kuroneko6423.com |
