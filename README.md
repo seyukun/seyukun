@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 [![views](https://komarev.com/ghpvc/?username=seyukun)](https://github.com/esyukun/) 
 
 | GitHub Status | Ecole 42 Status |
