@@ -17,4 +17,4 @@
 | KuronekoServer Org. | 2022/5/1 ~ now | SaaS | https://kuroneko6423.com |
 
 合同会社Kalyteroを立ち上げ、クラウド屋さんを目指しながらITの万屋をやってます。
-何かITで重まりのことがあればご相談ください。
+何かITでお困りのことがあればご相談ください。
