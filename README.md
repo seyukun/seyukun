@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![views](https://komarev.com/ghpvc/?username=seyukun)](https://github.com/seyukun/)
+[![views](https://komarev.com/ghpvc/?username=seyukun)](https://github.com/seyukun/)  
 合同会社Kalyteroを立ち上げ、クラウド屋さんを目指しながらITの万屋をやってます。 何かITでお困りのことがあればご相談ください。
 
 | GitHub Status | Ecole 42 Status |
