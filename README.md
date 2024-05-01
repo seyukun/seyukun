@@ -12,6 +12,9 @@
 | Organization | Since | Content | URL |
 | :---: | :---: | :---: | :---: |
 | ![sakura](https://github.com/seyukun/seyukun/assets/79987160/9f5fd42d-783e-40aa-a732-120acb98cb8d) SAKURA internet Inc. | 2023/8/1 ~ now | IaaS | https://www.sakura.ad.jp |
-| Kalytero Inc. | 2023/11/14 ~ now | Iaas | https://kalyte.ro |
+| Kalytero Inc. | 2023/11/14 ~ now | IaaS | https://kalyte.ro |
 | docheio Org. | 2022/1/1 ~ now | IaaS | https://doche.io |
 | KuronekoServer Org. | 2022/5/1 ~ now | SaaS | https://kuroneko6423.com |
+
+合同会社Kalyteroを立ち上げ、クラウド屋さんを目指しながらITの万屋をやってます。
+何かITで重まりのことがあればご相談ください。
