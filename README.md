@@ -15,5 +15,5 @@
 | Organization | Since | Content | URL |
 | :---: | :---: | :---: | :---: |
 | ![sakura](https://github.com/seyukun/seyukun/assets/79987160/9f5fd42d-783e-40aa-a732-120acb98cb8d) SAKURA internet Inc. | 2023/8/1 ~ now | IaaS | https://www.sakura.ad.jp |
-| Kalytero Inc. | 2023/11/14 ~ now | IaaS | https://kalytero.ne.jp |
+| Kalytero Inc. | 2023/11/14 ~ now | IaaS | https://www.kalytero.ne.jp |
 | KuronekoServer Org. | 2022/5/1 ~ now | SaaS | https://kuroneko6423.com |
