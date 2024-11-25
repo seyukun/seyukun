@@ -4,7 +4,7 @@
 
 | GitHub Status | Ecole 42 Status |
 | :---: | :---: |
-| [![github stats](https://github-readme-stats.vercel.app/api?username=seyukun&count_private=true&show_icons=true&theme=radical)](https://github.com/seyukun/) | [![github stats](https://github-readme-stats.vercel.app/api?username=seyukun&count_private=true&show_icons=true&theme=radical)](https://github.com/seyukun/) |
+| [![github stats](https://github-readme-stats.vercel.app/api?username=seyukun&count_private=true&show_icons=true&theme=radical)](https://github.com/seyukun/) | [![yushsato's 42 stats](https://badge.mediaplus.ma/darkblue/yushsato?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) |
 | **ALL Time Status** | **7 Days Status** |
 | [![ALL Time Status](https://wakatime.com/share/@seyukun/97b56257-bb2e-4df2-a2b0-667f0e55104d.svg)](https://github.com/seyukun/) | [![7 Day Status](https://wakatime.com/share/@seyukun/7961b2d1-5aa6-454e-bc8c-26f66b69a4bd.svg)](https://github.com/seyukun/) |
 | [![Last Year Status](https://wakatime.com/share/@seyukun/e66eed45-dcf8-410f-9065-620d4e9a6697.svg)](https://github.com/seyukun/) | [![7 Day Status](https://wakatime.com/share/@seyukun/9e88758a-6d77-43f5-9330-ad0c4d8cb2fe.svg)](https://github.com/seyukun/) |
