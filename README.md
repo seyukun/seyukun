@@ -53,8 +53,54 @@
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-| Organization | Since | Content | URL |
-| :---: | :---: | :---: | :---: |
-| ![sakura](https://github.com/seyukun/seyukun/assets/79987160/9f5fd42d-783e-40aa-a732-120acb98cb8d) SAKURA internet Inc. | 2023/8/1 ~ now | IaaS | https://www.sakura.ad.jp |
-| Kalytero Inc. | 2023/11/14 ~ now | IaaS | https://www.kalytero.ne.jp |
-| KuronekoServer Org. | 2022/5/1 ~ 2024/11/30 | SaaS | https://kuroneko6423.com |
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Organization</th>
+        <th align="center">Since</th>
+        <th align="center">Content</th>
+        <th align="center">URL</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://private-user-images.githubusercontent.com/79987160/298264645-9f5fd42d-783e-40aa-a732-120acb98cb8d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg1MDcyODgsIm5iZiI6MTc0ODUwNjk4OCwicGF0aCI6Ii83OTk4NzE2MC8yOTgyNjQ2NDUtOWY1ZmQ0MmQtNzgzZS00MGFhLWE3MzItMTIwYWNiOThjYjhkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI5VDA4MjMwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhY2UyNTE5NzllMTc4YTBkNDc0YWM4YTU0ZGEwYjA3OTNkYTkzN2JkMzYwOTRkNmQ1M2U4M2U5Njk1NDNmOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9nYWIrdLydApKHCL4ZNv2jTuqeVe7xtAZ5Cx9b2E3PI" alt="sakura" style="max-width: 100%"/>
+          SAKURA internet Inc.
+        </td>
+        <td align="center">2023/8/1 ~ now</td>
+        <td align="center">IaaS</td>
+        <td align="center">
+          <a href="https://www.sakura.ad.jp" rel="nofollow"
+            >https://www.sakura.ad.jp</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td align="center"Kalytero Inc.>Kalytero LLC</td>
+        <td align="center">2023/11/14 ~ now</td>
+        <td align="center">IaaS</td>
+        <td align="center">
+          <a href="https://www.kalytero.ne.jp" rel="nofollow"
+            >https://www.kalytero.ne.jp</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td align="center">KuronekoServer Org.</td>
+        <td align="center">
+          2022/5/1 ~ 2024/11/30
+        </td>
+        <td align="center">SaaS</td>
+        <td align="center">
+          <a href="https://kuroneko6423.com" rel="nofollow"
+            >https://kuroneko6423.com</a
+          >
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
