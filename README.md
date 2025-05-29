@@ -67,7 +67,7 @@
     <tbody>
       <tr>
         <td align="center">
-          <img src="https://private-user-images.githubusercontent.com/79987160/298264645-9f5fd42d-783e-40aa-a732-120acb98cb8d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg1MDcyODgsIm5iZiI6MTc0ODUwNjk4OCwicGF0aCI6Ii83OTk4NzE2MC8yOTgyNjQ2NDUtOWY1ZmQ0MmQtNzgzZS00MGFhLWE3MzItMTIwYWNiOThjYjhkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI5VDA4MjMwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhY2UyNTE5NzllMTc4YTBkNDc0YWM4YTU0ZGEwYjA3OTNkYTkzN2JkMzYwOTRkNmQ1M2U4M2U5Njk1NDNmOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9nYWIrdLydApKHCL4ZNv2jTuqeVe7xtAZ5Cx9b2E3PI" alt="sakura" style="max-width: 100%"/>
+          <img src="https://github.com/seyukun/seyukun/assets/79987160/9f5fd42d-783e-40aa-a732-120acb98cb8d" alt="sakura" style="max-width: 100%"/>
           SAKURA internet Inc.
         </td>
         <td align="center">2023/8/1 ~ now</td>
@@ -79,7 +79,7 @@
         </td>
       </tr>
       <tr>
-        <td align="center"Kalytero Inc.>Kalytero LLC</td>
+        <td align="center"Kalytero Inc.>Kalytero LLC.</td>
         <td align="center">2023/11/14 ~ now</td>
         <td align="center">IaaS</td>
         <td align="center">
