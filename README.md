@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![views](https://komarev.com/ghpvc/?username=seyukun)](https://github.com/seyukun/)  
-合同会社Kalyteroを立ち上げ、クラウド屋さんを目指しながらITの万屋をやってます。 何かITでお困りのことがあればご相談ください。
+IaaS展開を目指す合同会社Kalyteroを立ち上げ、事業の準備をしながらITの万屋をやってます。 
 
 | GitHub Status | Ecole 42 Status |
 | :---: | :---: |
